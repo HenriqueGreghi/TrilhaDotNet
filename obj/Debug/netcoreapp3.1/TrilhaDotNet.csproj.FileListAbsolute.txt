@@ -1,0 +1,14 @@
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.exe
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.deps.json
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.runtimeconfig.json
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.runtimeconfig.dev.json
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.dll
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\bin\Debug\netcoreapp3.1\TrilhaDotNet.pdb
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.csproj.AssemblyReference.cache
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.AssemblyInfoInputs.cache
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.AssemblyInfo.cs
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.csproj.CoreCompileInputs.cache
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.dll
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.pdb
+C:\Users\017557631\Desktop\C#\Projetos\TrilhaDotNet\TrilhaDotNet\obj\Debug\netcoreapp3.1\TrilhaDotNet.genruntimeconfig.cache
